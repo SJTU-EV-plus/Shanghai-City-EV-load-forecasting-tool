@@ -1,4 +1,4 @@
-# Shanghai-EV-load-forecast
+# Shanghai-EV-chargeing-load-forecasting-tool
 The forecasting of EV charging load of Shanghai.
 This tool is developed by Liu Zeyu, EV+ research team, Shanghai Jiao Tong University.
 The source code is non-public and still under developement, but a demo is released here.
