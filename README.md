@@ -9,3 +9,5 @@ The brief route is large scale Monte-Carlo simulation based on trip statistics.
 The tool is developed aiming to be capable of flexible and farsighted EV charging load forecasting for the whole scale of Shanghai.
 
 Further changes may be proposed in the future.
+
+If you have any questions, please contact sjtu_ev_plus@163.com.
